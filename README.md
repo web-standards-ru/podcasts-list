@@ -19,4 +19,4 @@
 
 - [Веб-стандарты](https://web-standards.ru/podcast/feed/)
 - [Девшахта](https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss)
-- [Фронтенд Юность (18+)](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)
+- [Фронтенд Юность](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)
