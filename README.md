@@ -21,3 +21,4 @@
 - [Девшахта](https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss)
 - [Фронтенд Юность](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)
 - [Frontend Weekend](https://feeds.feedburner.com/frontendweekend)
+- [RadioJS](http://radiojs.ru/feed/podcast/)
