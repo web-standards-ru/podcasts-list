@@ -26,3 +26,4 @@
 - [Пятиминутка React](https://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss)
 - [Пятиминутка Angular](https://feeds.soundcloud.com/users/soundcloud:users:319318232/sounds.rss)
 - [CSSSR](https://feeds.soundcloud.com/users/soundcloud:users:420446082/sounds.rss)
+- [Сделайте мне красиво](https://feeds.soundcloud.com/users/soundcloud:users:556403109/sounds.rss)
