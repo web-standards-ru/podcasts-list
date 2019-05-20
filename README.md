@@ -18,3 +18,4 @@
 ## Подкасты
 
 - [Веб-стандарты](https://web-standards.ru/podcast/feed/)
+- [Девшахта](https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss)
