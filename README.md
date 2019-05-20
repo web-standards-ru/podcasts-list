@@ -23,3 +23,4 @@
 - [Frontend Weekend](https://feeds.feedburner.com/frontendweekend)
 - [RadioJS](http://radiojs.ru/feed/podcast/)
 - [Веб-истории](https://feeds.simplecast.com/0ijGvb_8)
+- [Пятиминутка React](https://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss)
