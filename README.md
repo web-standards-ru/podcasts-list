@@ -29,3 +29,4 @@
 - [Сделайте мне красиво](https://feeds.feedburner.com/beegebot/smk)
 - [Суровый веб](https://uwebdesign.ru/feed/podcast/)
 - [SDCast](https://sdcast.ksdaemon.ru/feed/podcast/)
+- [Ошибки молодости](https://soundcloud.com/youth-mistakes)
