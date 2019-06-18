@@ -30,3 +30,4 @@
 - [Суровый веб](https://uwebdesign.ru/feed/podcast/)
 - [SDCast](https://sdcast.ksdaemon.ru/feed/podcast/)
 - [Ошибки молодости](https://soundcloud.com/youth-mistakes)
+- [Frontflip](http://frontflip.me/podcast.xml)
