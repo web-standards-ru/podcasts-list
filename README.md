@@ -29,5 +29,5 @@
 - [Сделайте мне красиво](https://feeds.feedburner.com/beegebot/smk)
 - [Суровый веб](https://uwebdesign.ru/feed/podcast/)
 - [SDCast](https://sdcast.ksdaemon.ru/feed/podcast/)
-- [Ошибки молодости](https://soundcloud.com/youth-mistakes)
+- [Ошибки молодости](https://feeds.soundcloud.com/users/soundcloud:users:606784014/sounds.rss)
 - [Podlodka Podcast](https://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)
