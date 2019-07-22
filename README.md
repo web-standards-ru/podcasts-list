@@ -32,4 +32,4 @@
 - [Ошибки молодости](https://feeds.soundcloud.com/users/soundcloud:users:606784014/sounds.rss)
 - [Podlodka Podcast](https://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)
 - [Frontflip](http://frontflip.me/podcast.xml)
-- [ngRuAir](http://feeds.soundcloud.com/users/soundcloud:users:611969376/sounds.rss)
+- [ngRuAir](https://feeds.soundcloud.com/users/soundcloud:users:611969376/sounds.rss)
