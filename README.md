@@ -23,6 +23,7 @@
 - [Frontend Weekend](https://feeds.feedburner.com/frontendweekend)
 - [RadioJS](https://radiojs.ru/feed/podcast/)
 - [Веб-истории](https://feeds.simplecast.com/0ijGvb_8)
+- [Пятиминутка PHP](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss)
 - [Пятиминутка React](https://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss)
 - [Пятиминутка Angular](https://feeds.soundcloud.com/users/soundcloud:users:319318232/sounds.rss)
 - [CSSSR](https://feeds.soundcloud.com/users/soundcloud:users:420446082/sounds.rss)
