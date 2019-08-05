@@ -36,3 +36,4 @@
 - [Podlodka Podcast](https://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)
 - [Frontflip](http://frontflip.me/podcast.xml)
 - [ngRuAir](https://feeds.soundcloud.com/users/soundcloud:users:611969376/sounds.rss)
+- [UnderJS](http://feeds.soundcloud.com/users/soundcloud:users:677382653/sounds.rss)
