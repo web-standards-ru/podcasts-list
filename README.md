@@ -36,4 +36,6 @@
 - [Podlodka Podcast](https://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)
 - [Frontflip](http://frontflip.me/podcast.xml)
 - [ngRuAir](https://feeds.soundcloud.com/users/soundcloud:users:611969376/sounds.rss)
-- [UnderJS](http://feeds.soundcloud.com/users/soundcloud:users:677382653/sounds.rss)
+- [UnderJS](https://feeds.soundcloud.com/users/soundcloud:users:677382653/sounds.rss)
+- [Дизайн Такой](https://feeds.soundcloud.com/users/soundcloud:users:315702161/sounds.rss)
+- [Мысли и методы (бывш. Хекслет)](https://feeds.soundcloud.com/users/soundcloud:users:259154388/sounds.rss)
