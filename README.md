@@ -39,3 +39,4 @@
 - [UnderJS](https://feeds.soundcloud.com/users/soundcloud:users:677382653/sounds.rss)
 - [Дизайн Такой](https://feeds.soundcloud.com/users/soundcloud:users:315702161/sounds.rss)
 - [Мысли и методы (бывш. Хекслет)](https://feeds.soundcloud.com/users/soundcloud:users:259154388/sounds.rss)
+- [Undefined Podcast](https://anchor.fm/s/13b79540/podcast/rss)
